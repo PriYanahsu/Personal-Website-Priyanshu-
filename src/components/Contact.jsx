@@ -20,7 +20,7 @@ const Contact = () => {
         {/* Form Section */}
         <div className="flex justify-center items-center w-full">
           <form
-            action="https://formsubmit.co/el/confirm/b595858dde0b3789f34030b1845d0337"
+            action="https://formsubmit.co/priyanshu1265656@email.com"
             method="POST"
             className="flex flex-col w-full sm:w-3/4 md:w-1/2 lg:w-1/3"
           >
