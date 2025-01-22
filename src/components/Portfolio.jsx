@@ -1,6 +1,8 @@
 import React from 'react';
 import INNFOODIE from '../assets/portfolio/INNFOODIE.png';
-import Prediction from '../assets/portfolio/Prediction.png';
+import Disease from '../assets/portfolio/disease.png';
+import personal from '../assets/portfolio/personal.png';
+import spam from '../assets/portfolio/spam.png';
 import weather from '../assets/portfolio/weather.png';
 
 const Portfolio = () => {
@@ -21,11 +23,27 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      src: Prediction,
+      src: Disease,
       demoLink:
         'https://github.com/PriYanahsu/Disease-Prediction-with-Drug-Recommendation-Using-ML',
       codeLink:
         'https://github.com/PriYanahsu/Disease-Prediction-with-Drug-Recommendation-Using-ML',
+    },
+    {
+      id: 4,
+      src: personal,
+      demoLink:
+        'https://personal-website-priyanshu.vercel.app/',
+      codeLink:
+        'https://github.com/PriYanahsu/Personal-Website-Priyanshu-',
+    },
+    {
+      id: 5,
+      src: spam,
+      demoLink:
+        'https://github.com/PriYanahsu/Spam-Message-Detector',
+      codeLink:
+        'https://github.com/PriYanahsu/Spam-Message-Detector',
     },
   ];
 
