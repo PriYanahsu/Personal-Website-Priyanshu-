@@ -2,7 +2,7 @@ import React from "react";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
-import { SiLeetcode } from "react-icons/si";
+import { SiHackerrank, SiLeetcode } from "react-icons/si";
 
 const SocialLinks = () => {
   const links = [
@@ -56,6 +56,16 @@ const SocialLinks = () => {
       ),
       href: "https://leetcode.com/u/eROhMGLYrx/",
       style: "shadow-orange-600",
+    },
+    {
+      id: 6,
+      child: (
+        <>
+          HackerRank <SiHackerrank size={30} />
+        </>
+      ),
+      href: "https://www.hackerrank.com/profile/priyanshukuma120",
+      style: "shadow-green-600",
     },
   ];
 
