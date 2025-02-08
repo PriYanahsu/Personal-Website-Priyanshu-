@@ -54,7 +54,7 @@ const SocialLinks = () => {
           LeetCode <SiLeetcode size={30} />
         </>
       ),
-      href: "https://leetcode.com/u/eROhMGLYrx/",
+      href: "https://leetcode.com/u/PriyAnshu1265/",
       style: "shadow-orange-600",
     },
     {
