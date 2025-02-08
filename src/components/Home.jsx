@@ -37,7 +37,7 @@ const Home = () => {
             I am an aspiring software developer skilled in creating websites and
             web applications using HTML, CSS, JavaScript, React, Java, and
             Python. Passionate about solving complex problems, demonstrated by
-            solving over 115 questions on LeetCode. Committed to continuous
+            solving questions on LeetCode. Committed to continuous
             learning and collaborating with the tech community.
           </p>
         </div>
