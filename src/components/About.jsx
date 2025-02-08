@@ -27,7 +27,7 @@ const About = () => {
 
         <p className="mt-4 text-base sm:text-lg md:text-xl lg:text-2xl text-center md:text-left">
           In addition, I have a proven track record in problem-solving, having
-          solved over 115 questions on LeetCode, which showcases my strong
+          solved questions on LeetCode, which showcases my strong
           algorithmic thinking and analytical abilities. Eager to apply my academic
           knowledge and project experience, I am passionate about contributing
           effectively to dynamic IT teams.
