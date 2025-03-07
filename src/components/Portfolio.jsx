@@ -4,6 +4,7 @@ import Disease from '../assets/portfolio/disease.png';
 import personal from '../assets/portfolio/personal.png';
 import spam from '../assets/portfolio/spam.png';
 import weather from '../assets/portfolio/weather.png';
+import fileShare from '../assets/portfolio/fileShare'
 
 const Portfolio = () => {
   const portfolio = [
@@ -39,6 +40,14 @@ const Portfolio = () => {
     },
     {
       id: 5,
+      src: fileShare,
+      demoLink:
+        'https://github.com/PriYanahsu/file-share-app',
+      codeLink:
+        'https://github.com/PriYanahsu/file-share-app',
+    },
+    {
+      id: 6,
       src: spam,
       demoLink:
         'https://github.com/PriYanahsu/Spam-Message-Detector',
