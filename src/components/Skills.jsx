@@ -9,6 +9,7 @@ import python from "../assets/python.jpg";
 import reactImage from "../assets/react.png";
 import tailwind from "../assets/tailwind.png";
 import spring from "../assets/spring.png";
+import mongo from "../assets/mongoDB.jpeg";
 
 const Skills = () => {
   const skills = [
@@ -71,6 +72,12 @@ const Skills = () => {
       src: spring,
       title: "Spring-boot",
       style: "shadow-green-500",
+    },
+{
+      id: 11,
+      src: mongo,
+      title: "mongoDB",
+      style: "shadow-green-800",
     },
   ];
 
