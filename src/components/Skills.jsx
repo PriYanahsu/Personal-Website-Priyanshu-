@@ -8,7 +8,7 @@ import mysql from "../assets/mySQL.jpg";
 import python from "../assets/python.jpg";
 import reactImage from "../assets/react.png";
 import tailwind from "../assets/tailwind.png";
-import spring from "../assets/spring.png"
+import spring from "../assets/spring.png";
 
 const Skills = () => {
   const skills = [
