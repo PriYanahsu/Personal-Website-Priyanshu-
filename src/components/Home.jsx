@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <div
       name="home"
-      className="min-h-screen w-full bg-gradient-to-b from-black to-gray-800 pt-20 md:pt-24"
+      className="h-full w-full bg-gradient-to-b from-black to-gray-800 pt-20 md:pt-24"
     >
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-6 md:px-10 lg:px-16 md:flex-row">
         {/* Text Section */}
@@ -34,11 +34,7 @@ const Home = () => {
 
           {/* Bio (shown below button only on small devices) */}
           <p className="text-gray-400 py-4 max-w-md text-center md:text-left leading-relaxed hidden md:block order-2">
-            I am an aspiring software developer skilled in creating websites and
-            web applications using HTML, CSS, JavaScript, React, Java, and
-            Python. Passionate about solving complex problems, demonstrated by
-            solving questions on LeetCode. Committed to continuous
-            learning and collaborating with the tech community.
+          Aspiring Software Developer with strong problem-solving skills, demonstrated by solving over 350 LeetCode problems and earning 5⭐️ in Java and MySQL on HackerRank. Proficient in building full-stack applications using technologies like Java, Spring Boot, React.js, HTML, CSS, Tailwind CSS, JavaScript, Python, Flask, MySQL, and MongoDB. Passionate about writing clean, scalable code and continuously learning new tools and frameworks. Eager to contribute to impactful projects and grow in a collaborative, fast-paced development environment.
           </p>
         </div>
 
@@ -53,11 +49,7 @@ const Home = () => {
 
         {/* Bio (visible below image on small devices) */}
         <p className="text-gray-400 py-4 max-w-md text-center leading-relaxed block md:hidden order-4">
-          I am an aspiring software developer skilled in creating websites and
-          web applications using HTML, CSS, JavaScript, React, Java, and Python.
-          Passionate about solving complex problems, demonstrated by solving
-          over 115 questions on LeetCode. Committed to continuous learning and
-          collaborating with the tech community.
+          Aspiring Software Developer with strong problem-solving skills, demonstrated by solving over 350 LeetCode problems and earning 5⭐️ in Java and MySQL on HackerRank. Proficient in building full-stack applications using technologies like Java, Spring Boot, React.js, HTML, CSS, Tailwind CSS, JavaScript, Python, Flask, MySQL, and MongoDB. Passionate about writing clean, scalable code and continuously learning new tools and frameworks. Eager to contribute to impactful projects and grow in a collaborative, fast-paced development environment.
         </p>
       </div>
     </div>

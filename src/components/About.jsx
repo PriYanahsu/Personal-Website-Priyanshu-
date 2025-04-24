@@ -16,22 +16,14 @@ const About = () => {
 
         {/* Text Section */}
         <p className="text-base sm:text-lg md:text-xl lg:text-2xl mt-6 md:mt-12 text-center md:text-left">
-          As an MCA student with a strong foundation in computer science and
-          programming, I am skilled in designing and developing websites using
-          technologies such as HTML, CSS, JavaScript, React, Java, and Python. I
-          focus on creating user-friendly, responsive websites that meet both
-          client and user needs, ensuring they perform well across different
-          devices.
+          As an MCA student with a solid foundation in computer science and programming, I specialize in designing and developing responsive, user-friendly websites and full-stack applications. I’m proficient in a wide range of technologies including HTML, CSS, Tailwind CSS, JavaScript, React.js, Java, Spring Boot, Python, Flask, MySQL, and MongoDB. My focus is on delivering scalable and efficient solutions that perform seamlessly across all devices.
         </p>
         <br />
 
         <p className="mt-4 text-base sm:text-lg md:text-xl lg:text-2xl text-center md:text-left">
-          In addition, I have a proven track record in problem-solving, having
-          solved questions on LeetCode, which showcases my strong
-          algorithmic thinking and analytical abilities. Eager to apply my academic
-          knowledge and project experience, I am passionate about contributing
-          effectively to dynamic IT teams.
+          I have demonstrated strong problem-solving and analytical skills by solving over 350 problems on LeetCode and earning 5⭐ ratings in Java and MySQL on HackerRank. Eager to apply my academic knowledge and project experience, I’m passionate about contributing to dynamic IT teams, continuously learning new technologies, and building impactful software solutions.
         </p>
+
       </div>
     </div>
   );

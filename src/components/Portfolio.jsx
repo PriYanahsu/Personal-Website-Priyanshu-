@@ -5,6 +5,7 @@ import personal from '../assets/portfolio/personal.png';
 import spam from '../assets/portfolio/spam.png';
 import weather from '../assets/portfolio/weather.png';
 import fileShare from '../assets/portfolio/fileShare.png';
+import smartCompaint from '../assets/portfolio/smartcomplaint.png';
 
 const Portfolio = () => {
   const portfolio = [
@@ -54,6 +55,14 @@ const Portfolio = () => {
       codeLink:
         'https://github.com/PriYanahsu/Spam-Message-Detector',
     },
+    {
+      id: 7,
+      src: smartCompaint,
+      demoLink:
+        'https://online-complaint-mangement-system.vercel.app/',
+      codeLink:
+        'https://github.com/PriYanahsu/ONLINE-complaint-mangement-System',
+    }
   ];
 
   return (
