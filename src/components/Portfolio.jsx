@@ -96,7 +96,7 @@ const Portfolio = () => {
                 </a>
                 <a href={codeLink} target="_blank" rel="noopener noreferrer">
                   <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                    Code
+                    GitHub
                   </button>
                 </a>
               </div>
