@@ -61,7 +61,7 @@ const Portfolio = () => {
       demoLink:
         'https://online-complaint-mangement-system.vercel.app/',
       codeLink:
-        'https://github.com/PriYanahsu/ONLINE-complaint-mangement-System',
+        'https://github.com/PriYanahsu/-Smart-Complaint-Management-System-Full-Stack-',
     }
   ];
 
