@@ -21,7 +21,7 @@ const About = () => {
         <br />
 
         <p className="mt-4 text-base sm:text-lg md:text-xl lg:text-2xl text-center md:text-left">
-          I have demonstrated strong problem-solving and analytical skills by solving over 350 problems on LeetCode and earning 5⭐ ratings in Java and MySQL on HackerRank. Eager to apply my academic knowledge and project experience, I’m passionate about contributing to dynamic IT teams, continuously learning new technologies, and building impactful software solutions.
+          I have demonstrated strong problem-solving and analytical skills by solving over 400 problems on LeetCode and earning 5⭐ ratings in Java and MySQL on HackerRank. Eager to apply my academic knowledge and project experience, I’m passionate about contributing to dynamic IT teams, continuously learning new technologies, and building impactful software solutions.
         </p>
 
       </div>

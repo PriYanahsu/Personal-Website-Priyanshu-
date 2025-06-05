@@ -34,7 +34,7 @@ const Home = () => {
 
           {/* Bio (shown below button only on small devices) */}
           <p className="text-gray-400 py-4 max-w-md text-center md:text-left leading-relaxed hidden md:block order-2">
-          Aspiring Software Developer with strong problem-solving skills, demonstrated by solving over 350 LeetCode problems and earning 5⭐️ in Java and MySQL on HackerRank. Proficient in building full-stack applications using technologies like Java, Spring Boot, React.js, HTML, CSS, Tailwind CSS, JavaScript, Python, Flask, MySQL, and MongoDB. Passionate about writing clean, scalable code and continuously learning new tools and frameworks. Eager to contribute to impactful projects and grow in a collaborative, fast-paced development environment.
+          Aspiring Software Developer with strong problem-solving skills, demonstrated by solving over 400 LeetCode problems and earning 5⭐️ in Java and MySQL on HackerRank. Proficient in building full-stack applications using technologies like Java, Spring Boot, React.js, HTML, CSS, Tailwind CSS, JavaScript, Python, Flask, MySQL, and MongoDB. Passionate about writing clean, scalable code and continuously learning new tools and frameworks. Eager to contribute to impactful projects and grow in a collaborative, fast-paced development environment.
           </p>
         </div>
 
