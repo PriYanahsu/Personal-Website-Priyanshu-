@@ -28,6 +28,10 @@ const Navbar = () => {
     },
     {
       id: 6,
+      link: "certificates",
+    },
+    {
+      id: 7,
       link: "contact",
     },
   ];
