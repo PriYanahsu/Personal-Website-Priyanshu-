@@ -7,7 +7,7 @@ import PythonWithDataScience from "../assets/certificate/Python Data Science.png
 import DataStructureandBackendWithJava from "../assets/certificate/Data Structure & Backend With java.png";
 import FrontendCertificate from "../assets/certificate/Frontend Certificate.png";
 import JavaCertificate from "../assets/certificate/Java Certificate.png";
-import MySqlCertificate from "../assets/certificate/Mysql Certificate.png";
+import MySqlCertificate from "../assets/certificate/MySql Certificate.png";
 import ProblemSolving from "../assets/certificate/Problem Solving Certificate.png";
 
 
