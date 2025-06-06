@@ -95,7 +95,7 @@ const Certificate = () => {
                 </div>
 
                 {/* Grid for certificate thumbnails */}
-                <div className="w-full grid grid-cols-3 sm:grid-cols-3 md:grid-cols-4 gap-8 text-center py-8 px-4 sm:px-0">
+                <div className="w-full grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8 text-center py-8 px-4 sm:px-0">
                     {certificates.map(({ id, title, image, link }) => (
                         <div
                             key={id}
