@@ -5,7 +5,7 @@ import Navbar from "./components/Navbar";
 import Portfolio from "./components/Portfolio";
 import Skills from "./components/Skills";
 import SocialLinks from "./components/SocialLinks";
-import Certificate from "./components/certificate";
+import Certificate from "./components/Certificate";
 
 
 
