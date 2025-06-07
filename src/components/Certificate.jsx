@@ -109,7 +109,7 @@ const Certificate = () => {
                             />
                             {/* <p className="my-2">{title}</p> */}
                             <a href={link}>
-                                <button className="w-1/2 duration-200 hover:scale-105 text-blue-500 hover:text-green-500 mb-2">
+                                <button className="w-1/2 duration-200 hover:scale-105 text-gray-100 hover:text-green-500 mb-2">
                                     Credential
                                 </button>
                             </a>
