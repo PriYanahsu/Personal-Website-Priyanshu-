@@ -43,7 +43,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: 'https://violet-carlyn-60.tiiny.site',
+      href: 'https://olive-zsazsa-51.tiiny.site',
       style: "shadow-red-400",
       download: true,
     },
