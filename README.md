@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This website showcases my projects, skills, and experience as a developer.
 
 ## 🔗 Live Demo
-(https://personal-website-priyanshu.vercel.app/)
+(https://devpriyanshu.vercel.app)
 
 ## 🖼️ Home Page Preview
 ![Home Page Screenshot](assets/homepage.png) *(Replace with your image path)*
