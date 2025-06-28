@@ -25,12 +25,13 @@ const blogs = [
 const Blog = () => {
   return (
     <div name="blogs" className="min-h-screen bg-gradient-to-b from-black to-gray-800 text-white py-20 px-6">
-      <div className="max-w-screen-lg mx-auto">
-        <h2 className="text-4xl font-bold mb-10 text-center border-b-4 inline-block border-cyan-500">
+      <div className="max-w-screen-lg mx-auto text-center md:text-left">
+        <h2 className="text-4xl font-bold mb-10 border-b-4 border-gray-500 p-2 inline">
           My Blogs
         </h2>
+        <p className="py-6 text-base sm:text-lg md:text-xl">Check out my Blogs</p>
 
-        <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3 mt-8">
+        <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3 mt-8 text-left">
           {blogs.map((blog) => (
             <BlogCard
               key={blog.id}
