@@ -31,7 +31,11 @@ const Navbar = () => {
       link: "certificates",
     },
     {
-      id: 7,
+      id:7,
+      link: "blogs",
+    },
+    {
+      id: 8,
       link: "contact",
     },
   ];
