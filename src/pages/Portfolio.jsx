@@ -83,13 +83,12 @@ const Portfolio = () => {
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 px-4 sm:px-0">
-        <div className="md:hidden h-1/2 col-span-1">
-          <main className='rounded-3xl'>
-            <Spline
-              scene="https://prod.spline.design/YnbEtzVM0LttVdiv/scene.splinecode"
-            />
-          </main>
-        </div>
+          <div className=" md:hidden w-full col-span-full mb-12">
+            <main className="rounded-3xl overflow-hidden shadow-lg h-[300px] sm:h-[400px] md:h-[500px]">
+              <Spline scene="https://prod.spline.design/YnbEtzVM0LttVdiv/scene.splinecode" />
+            </main>
+          </div>
+
           {portfolio.map(({ id, src, demoLink, codeLink }) => (
             <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
               <img
