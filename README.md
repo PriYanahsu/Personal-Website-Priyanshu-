@@ -23,8 +23,6 @@ Welcome to my personal portfolio website! This website showcases my projects, sk
 
 ## 🌐 Social Media Links
 - **GitHub:** [PriYanahsu](https://github.com/PriYanahsu)
-- **LinkedIn:** [Your LinkedIn](#)
-- **Twitter:** [Your Twitter](#)
 
 ## 📂 Sections Included
 - **Home**: Introduction & overview
