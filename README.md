@@ -6,7 +6,6 @@ Welcome to my personal portfolio website! This website showcases my projects, sk
 (https://devpriyanshu.vercel.app)
 
 ## 🖼️ Home Page Preview
-![Home Page Screenshot](assets/homepage.png) *(Replace with your image path)*
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React (if applicable)
